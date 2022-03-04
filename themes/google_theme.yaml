@@ -85,6 +85,8 @@ Google Theme:
       mdc-select-idle-line-color: var(--primary-text-color)
       mdc-select-dropdown-icon-color: var(--secondary-text-color)
       mdc-select-hover-line-color: var(--accent-color)
+      # Text Field
+      mdc-text-field-fill-color: rgb(255, 255, 255)
       # Input
       input-fill-color: var(--secondary-background-color)
       input-dropdown-icon-color: var(--secondary-text-color)
@@ -92,6 +94,8 @@ Google Theme:
       input-label-ink-color: var(--secondary-text-color)
       input-idle-line-color: var(--primary-text-color)
       input-hover-line-color: var(--accent-color)
+      # Fix
+      mdc-button-outline-color: rgb(26, 115, 232)       
 #
     dark:
       # Header:
@@ -172,6 +176,8 @@ Google Theme:
       mdc-select-idle-line-color: var(--primary-text-color)
       mdc-select-dropdown-icon-color: var(--secondary-text-color)
       mdc-select-hover-line-color: var(--accent-color)
+      # Text Field
+      mdc-text-field-fill-color: rgb(32, 33, 36)
       # Input
       input-fill-color: var(--secondary-background-color)
       input-dropdown-icon-color: var(--secondary-text-color)
@@ -179,3 +185,5 @@ Google Theme:
       input-label-ink-color: var(--secondary-text-color)
       input-idle-line-color: var(--primary-text-color)
       input-hover-line-color: var(--accent-color)
+      # Fixed
+      mdc-button-outline-color: rgb(138, 180, 248)       

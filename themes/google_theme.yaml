@@ -32,7 +32,9 @@ Google Theme:
       sidebar-selected-text-color: var(--sidebar-selected-icon-color)
       # Buttons
       paper-item-icon-color: rgb(95, 99, 104)
-      paper-item-icon-active-color: rgb(26, 115, 232)
+      pbs-button-color: rgb(95, 99, 104)
+      paper-item-icon-active-color: rgb(26, 115, 232)      
+      pbs-button-active-color: rgb(26, 115, 232)
       # States and Badges
       state-icon-color: rgb(26, 115, 232)
       state-icon-active-color: rgb(95, 99, 104)
@@ -130,7 +132,9 @@ Google Theme:
       sidebar-selected-text-color: var(--sidebar-selected-icon-color)
       # Buttons
       paper-item-icon-color: rgb(169, 177, 188)
-      paper-item-icon-active-color: rgb(138, 180, 248)
+      pbs-button-color: rgb(169, 177, 188)
+      paper-item-icon-active-color: rgb(138, 180, 248)      
+      pbs-button-active-color: rgb(138, 180, 248)
       # States and Badges
       state-icon-color: rgb(138, 180, 248)
       state-icon-active-color: rgb(169, 177, 188)

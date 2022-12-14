@@ -97,6 +97,13 @@ Google Theme:
       input-hover-line-color: var(--accent-color)
       # Fix
       mdc-button-outline-color: rgb(26, 115, 232)       
+      # Custom for alarm colours post 2022.12  
+      state-default-color: '#44739E' # Default (Slate-Grey)
+      state-alarm-armed-color: '#F44336' # Red
+      state-alarm-arming-color: '#FF9800' # Orange
+      state-alarm-disarmed-color: '#4CAF50' # Green
+      state-alarm-pending-color: '#FF9800' # Orange
+      state-alarm-triggered-color: '#F44336' # Red         
 #
     dark:
       # Header:
@@ -188,4 +195,11 @@ Google Theme:
       input-idle-line-color: var(--primary-text-color)
       input-hover-line-color: var(--accent-color)
       # Fixed
-      mdc-button-outline-color: rgb(138, 180, 248)       
+      mdc-button-outline-color: rgb(138, 180, 248)   
+      # Custom for alarm colours post 2022.12  
+      state-default-color: '#44739E' # Default (Slate-Grey)
+      state-alarm-armed-color: '#F44336' # Red
+      state-alarm-arming-color: '#FF9800' # Orange
+      state-alarm-disarmed-color: '#4CAF50' # Green
+      state-alarm-pending-color: '#FF9800' # Orange
+      state-alarm-triggered-color: '#F44336' # Red          
